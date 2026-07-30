@@ -1,0 +1,3 @@
+dependencies {
+    api project(":mifos-commons-oas-imperative-rest-sdk-common-core")
+}

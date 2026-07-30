@@ -1,0 +1,3 @@
+dependencies {
+    api "org.mifos.commons.boot:mifos-commons-boot-core:0.1.0-SNAPSHOT"
+}
